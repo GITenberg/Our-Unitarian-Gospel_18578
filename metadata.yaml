@@ -1,0 +1,37 @@
+_repo: Our-Unitarian-Gospel_18578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Savage, Minot J. (Minot Judson)
+    alias: Savage, M. J. (Minot Judson)
+    birthdate: 1841
+    deathdate: 1918
+    gutenberg_agent_id: '8130'
+    url: http://www.gutenberg.org/2009/agents/8130
+    wikipedia: http://en.wikipedia.org/wiki/Minot_Judson_Savage
+description: ''
+gutenberg_issued: '2006-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons'
+- !lcsh 'Unitarianism'
+- !lcc 'BX'
+tableOfContents: '"What do you give in place of what you take away?" -- Are there
+  any creeds which it is wicked for us to question? -- Why have Unitarians no creed?
+  -- The real significance of the present religious discussion -- Doubt and faith:
+  both holy -- Is life a probation ended by death? -- Sin and atonement -- Prayer,
+  and communion with God -- The worship of God -- Mortality natural, not statutory
+  -- Reward and punishment -- Things which doubt cannot destroy -- Evolution loses
+  nothing of value to man -- Why are not all educated people Unitarians? -- Where
+  is the Evangelical Church?'
+title: Our Unitarian Gospel
+url: http://www.gutenberg.org/ebooks/18578
